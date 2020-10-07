@@ -1,3 +1,3 @@
-## BetFair Exchange 
+## Betfair Exchange 
 
-Horse race analysis of orders on BetFair exchange 
+Horse race analysis of orders on Betfair exchange 
